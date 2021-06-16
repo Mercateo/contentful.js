@@ -1,3 +1,5 @@
+This project is unmantained, deprecated and goes to archive with followup removal in 2 years.
+
 [![npm](https://img.shields.io/npm/v/contentful.svg)](https://www.npmjs.com/package/contentful)
 [![Build Status](https://travis-ci.org/contentful/contentful.js.svg?branch=master)](https://travis-ci.org/contentful/contentful.js)
 [![Coverage Status](https://coveralls.io/repos/github/contentful/contentful.js/badge.svg?branch=master)](https://coveralls.io/github/contentful/contentful.js?branch=master)
